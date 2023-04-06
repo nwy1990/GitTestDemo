@@ -7,7 +7,8 @@ package com.nwy.Git02;
 public class StartUp {
 
     public static void main(String[] args) {
-        System.out.println("我是天才");
+        System.out.println("脦脪脢脟脤矛虏脜");
+        System.out.println("ABCDEF");
     }
 
 
