@@ -8,7 +8,6 @@ public class StartUp {
 
     public static void main(String[] args) {
         System.out.println("我是天才");
-        System.out.println("请问科技时代烦恼是的");
     }
 
 
