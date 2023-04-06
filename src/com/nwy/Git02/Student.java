@@ -11,4 +11,6 @@ public class Student {
 	public int aaa;
 	public int bbb;
 	public int ccc;
+
+	public int height;
 }
